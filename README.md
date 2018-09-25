@@ -2,6 +2,9 @@
 
 #### Running the Project
 
+## This needs python3.6 to run
+Please install python3.6 if not present.
+
 `deployment.sh` automatically sets the projects and starts the server.
 `./deployment.sh` should be the only command that you'll need to execute.
 
