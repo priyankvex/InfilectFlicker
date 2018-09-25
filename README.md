@@ -2,7 +2,7 @@
 
 #### Running the Project
 
-`deployment.sh` automatically sets the projects are starts the server.
+`deployment.sh` automatically sets the projects and starts the server.
 `./deployment.sh` should be the only command that you'll need to execute.
 
 
@@ -97,7 +97,7 @@ Response:
 }
 ```
 
-4. Get all photos belonging to a user
+#### 4. Get all photos belonging to a group
 
 Returns all the photos for a given group.
 
