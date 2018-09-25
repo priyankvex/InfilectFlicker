@@ -1,5 +1,11 @@
 # InfilectFlicker
 
+#### Running the Project
+
+`deployment.sh` automatically sets the projects are starts the server.
+`./deployment.sh` should be the only command that you'll need to execute.
+
+
 ### API Endpoints
 
 ##### 1. Login
@@ -87,6 +93,7 @@ Response:
 		{
 			"photo_nsid": "F7OBAR"
 		}
+	]
 }
 ```
 
@@ -132,6 +139,7 @@ Response:
 				"path_alias": "owl_city_4"
 			}
 		}
+	]
 }
 ```
 
